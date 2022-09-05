@@ -1,0 +1,15 @@
+html {
+    background-color: rgb(154, 206, 230);
+}
+.area {
+    border: solid 1px #ddd;
+    background-color:rgba(255, 255, 255, 0.3);
+    padding: 10px;
+    max-width: 97%;
+    width: 97%;
+    min-height: 50px;
+    margin: 1%;
+    word-break: break-all;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
